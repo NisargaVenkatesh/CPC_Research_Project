@@ -1,0 +1,5 @@
+batch_size: 8
+epochs: 10
+learning_rate: 0.0002
+prediction_steps: 3
+segment_len: 16000
