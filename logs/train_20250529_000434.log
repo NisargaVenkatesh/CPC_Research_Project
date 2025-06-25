@@ -1,0 +1,32 @@
+2025-05-29 00:04:34,169 - INFO - Using device: cpu
+2025-05-29 00:08:12,727 - INFO - Epoch 1, Loss: 3.9265
+2025-05-29 00:08:12,834 - INFO - Saved checkpoint for epoch 1
+2025-05-29 00:08:12,908 - INFO - Best model updated at epoch 1 with loss 3.9265
+2025-05-29 00:11:40,322 - INFO - Epoch 2, Loss: 3.1003
+2025-05-29 00:11:40,439 - INFO - Saved checkpoint for epoch 2
+2025-05-29 00:11:40,547 - INFO - Best model updated at epoch 2 with loss 3.1003
+2025-05-29 00:15:13,097 - INFO - Epoch 3, Loss: 2.7865
+2025-05-29 00:15:13,189 - INFO - Saved checkpoint for epoch 3
+2025-05-29 00:15:13,299 - INFO - Best model updated at epoch 3 with loss 2.7865
+2025-05-29 00:19:09,375 - INFO - Epoch 4, Loss: 2.5306
+2025-05-29 00:19:09,470 - INFO - Saved checkpoint for epoch 4
+2025-05-29 00:19:09,551 - INFO - Best model updated at epoch 4 with loss 2.5306
+2025-05-29 00:23:10,003 - INFO - Epoch 5, Loss: 2.1416
+2025-05-29 00:23:10,099 - INFO - Saved checkpoint for epoch 5
+2025-05-29 00:23:10,294 - INFO - Best model updated at epoch 5 with loss 2.1416
+2025-05-29 00:27:03,373 - INFO - Epoch 6, Loss: 1.9136
+2025-05-29 00:27:03,461 - INFO - Saved checkpoint for epoch 6
+2025-05-29 00:27:03,550 - INFO - Best model updated at epoch 6 with loss 1.9136
+2025-05-29 00:31:21,683 - INFO - Epoch 7, Loss: 1.7279
+2025-05-29 00:31:21,770 - INFO - Saved checkpoint for epoch 7
+2025-05-29 00:31:21,847 - INFO - Best model updated at epoch 7 with loss 1.7279
+2025-05-29 00:35:19,449 - INFO - Epoch 8, Loss: 1.7803
+2025-05-29 00:35:19,545 - INFO - Saved checkpoint for epoch 8
+2025-05-29 00:39:08,415 - INFO - Epoch 9, Loss: 1.6177
+2025-05-29 00:39:08,500 - INFO - Saved checkpoint for epoch 9
+2025-05-29 00:39:08,582 - INFO - Best model updated at epoch 9 with loss 1.6177
+2025-05-29 00:42:46,052 - INFO - Epoch 10, Loss: 1.4721
+2025-05-29 00:42:46,157 - INFO - Saved checkpoint for epoch 10
+2025-05-29 00:42:46,267 - INFO - Best model updated at epoch 10 with loss 1.4721
+2025-05-29 00:42:46,354 - INFO - Saved final encoder and AR model.
+2025-05-29 17:54:50,881 - INFO - Saved training_loss.png
