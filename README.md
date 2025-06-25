@@ -9,17 +9,17 @@ CPC learns meaningful features from raw audio **without labels** by predicting f
 ## 📦 Project Structure
 
 Res_CPC/
-├── cpc/ # Encoder, autoregressive model, CPC loss
-├── data/ # LibriSpeech dataset (auto-downloaded)
-├── checkpoints/ # Saved model states
-├── embeddings/ # Extracted features and labels (npy format)
-├── logs/ # Training logs
-├── config.yaml # Hyperparameters
-├── main.py # Training script
-├── extract_embeddings.py # Save encoder features to .npy
-├── train_classifier.py # Classify speaker using embeddings
-├── visualize_embeddings.py# t-SNE plot of learned embeddings
-└── requirements.txt # Python dependencies
+1. cpc/ # Encoder, autoregressive model, CPC loss
+2. data/ # LibriSpeech dataset (auto-downloaded, not uploaded since it's too large)
+3. checkpoints/ # Saved model states
+4. embeddings/ # Extracted features and labels (npy format)
+5. logs/ # Training logs
+6. config.yaml # Hyperparameters
+7. main.py # Training script
+8. extract_embeddings.py # Save encoder features to .npy
+9. train_classifier.py # Classify speaker using embeddings
+10. visualize_embeddings.py# t-SNE plot of learned embeddings
+11. requirements.txt # Python dependencies
 
 ---
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Trains encoder and autoregressive model using CPC loss
 Logs loss and saves models to checkpoints/
-Training hyperparameters are in config.yaml
+Training hyperparameters in config.yaml
 
 3. Extract Embeddings:
     After training:
